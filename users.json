@@ -1,0 +1,16 @@
+[
+  {
+    "id": "B25018",
+    "password": "123456",
+    "role": "admin",
+    "active": true,
+    "mustChange": false
+  },
+  {
+    "id": "B25052",
+    "password": "1234",
+    "role": "user",
+    "active": true,
+    "mustChange": false
+  }
+]
