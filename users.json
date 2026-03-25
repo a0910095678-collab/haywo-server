@@ -1,16 +1,16 @@
 [
   {
     "id": "B25018",
-    "password": "123456",
+    "password": "B25018",
     "role": "admin",
     "active": true,
-    "mustChange": false
+    "mustChange": true
   },
   {
     "id": "B25052",
-    "password": "1234",
-    "role": "user",
+    "password": "B25052",
+    "role": "admin",
     "active": true,
-    "mustChange": false
+    "mustChange": true
   }
 ]
