@@ -2,7 +2,7 @@
   {
     "id": "B25018",
     "password": "B25018",
-    "role": "basic",
+    "role": "admin",
     "active": true,
     "mustChange": true
   },
