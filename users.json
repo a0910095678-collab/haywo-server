@@ -12,5 +12,12 @@
     "role": "admin",
     "active": true,
     "mustChange": true
-  }
+  },
+  {
+    "id": "B26018",
+    "password": "B26018",
+    "role": "admin",
+    "active": true,
+    "mustChange": true
+  },
 ]
