@@ -19,5 +19,12 @@
     "role": "admin",
     "active": true,
     "mustChange": true
+  },
+  {
+    "id": "office",
+    "password": "123456",
+    "role": "report",
+    "active": true,
+    "mustChange": false
   }
 ]
