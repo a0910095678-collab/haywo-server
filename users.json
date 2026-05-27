@@ -2,9 +2,9 @@
   {
     "id": "B25018",
     "password": "B25018",
-    "role": "admin",
-    "active": basic,
-    "mustChange": basic
+    "role": "basic",
+    "active": true,
+    "mustChange": true
   },
   {
     "id": "B25052",
