@@ -3,8 +3,8 @@
     "id": "B25018",
     "password": "B25018",
     "role": "admin",
-    "active": true,
-    "mustChange": true
+    "active": basic,
+    "mustChange": basic
   },
   {
     "id": "B25052",
