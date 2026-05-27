@@ -64,10 +64,11 @@ app.post('/change-password', (req, res) => {
   return res.json({ success: true });
 });
 
+// 顯示首頁 APP
 app.use(express.static(__dirname));
 
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
 });
 
 const PORT = process.env.PORT || 3001;
