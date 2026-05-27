@@ -9,7 +9,7 @@
   {
     "id": "B25052",
     "password": "B25052",
-    "role": "admin",
+    "role": "user",
     "active": true,
     "mustChange": true
   },
